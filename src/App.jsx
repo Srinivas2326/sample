@@ -1,5 +1,5 @@
 import React from 'react'
-import {Media} from './components/images'
+// import {Media} from './components/images'
 
 function App() {
   return (
